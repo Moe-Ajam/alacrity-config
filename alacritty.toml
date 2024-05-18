@@ -10,12 +10,24 @@ padding.x = 10
 padding.y = 10
 
 [font]
-size = 16
+size = 18
 
+normal.family = "JetBrainsMono Nerd Font"
+normal.style = "Regular"
+
+bold.family = "JetBrainsMono Nerd Font"
+bold.style = "Bold"
+
+bold_italic.family = "JetBrainsMono Nerd Font"
+bold_italic.style = "Bold Italic"
+
+italic.family = "JetBrainsMono Nerd Font"
+italic.style = "Italic"
 
 [scrolling]
 history = 10000
 multiplier = 3
+
 
 [mouse]
 #hide_when_typing = true
