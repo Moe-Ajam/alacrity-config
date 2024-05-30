@@ -1,4 +1,4 @@
-import = ["~/.config/alacritty/themes/themes/coolnight.toml"]
+import = ["~/.config/alacritty/themes/themes/catppuccin_macchiato.toml"]
 
 live_config_reload = true
 
@@ -10,19 +10,19 @@ padding.x = 10
 padding.y = 10
 
 [font]
-size = 18
+size = 17
 
 normal.family = "JetBrainsMono Nerd Font"
-normal.style = "Regular"
+normal.style = "ExtraLight"
 
 bold.family = "JetBrainsMono Nerd Font"
-bold.style = "Bold"
+bold.style = "Light Bold"
 
 bold_italic.family = "JetBrainsMono Nerd Font"
-bold_italic.style = "Bold Italic"
+bold_italic.style = "Light Bold Italic"
 
 italic.family = "JetBrainsMono Nerd Font"
-italic.style = "Italic"
+italic.style = "ExtraLight Italic"
 
 [scrolling]
 history = 10000
@@ -30,7 +30,7 @@ multiplier = 3
 
 
 [mouse]
-#hide_when_typing = true
+hide_when_typing = true
 
 [selection]
 save_to_clipboard = false
